@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zebxcore/Saory-the-bot.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Zebxcore/Saory-the-bot.git/static/js/main.499dc9c4.chunk.js",
+    "main.js.map": "/Zebxcore/Saory-the-bot.git/static/js/main.499dc9c4.chunk.js.map",
+    "runtime-main.js": "/Zebxcore/Saory-the-bot.git/static/js/runtime-main.090705dc.js",
+    "runtime-main.js.map": "/Zebxcore/Saory-the-bot.git/static/js/runtime-main.090705dc.js.map",
+    "static/js/2.c2a0cd44.chunk.js": "/Zebxcore/Saory-the-bot.git/static/js/2.c2a0cd44.chunk.js",
+    "static/js/2.c2a0cd44.chunk.js.map": "/Zebxcore/Saory-the-bot.git/static/js/2.c2a0cd44.chunk.js.map",
+    "static/js/3.91127a05.chunk.js": "/Zebxcore/Saory-the-bot.git/static/js/3.91127a05.chunk.js",
+    "static/js/3.91127a05.chunk.js.map": "/Zebxcore/Saory-the-bot.git/static/js/3.91127a05.chunk.js.map",
+    "index.html": "/Zebxcore/Saory-the-bot.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Zebxcore/Saory-the-bot.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c2a0cd44.chunk.js.LICENSE.txt": "/Zebxcore/Saory-the-bot.git/static/js/2.c2a0cd44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.090705dc.js",
+    "static/js/2.c2a0cd44.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.499dc9c4.chunk.js"
+  ]
+}
